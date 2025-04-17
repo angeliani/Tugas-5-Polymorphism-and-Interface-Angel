@@ -6,8 +6,8 @@ public abstract class CircularShape extends Shape {
     protected double radius;
 
     // konstanta untuk nilai pi (22/7)
-    protected final int PI_NUMERATOR = 22; //pembilang nilai pi
-    protected final int PI_DENOMINATOR = 7; //penyebut nilai pi
+    protected final int PI_NUMERATOR = 22; // pembilang nilai pi
+    protected final int PI_DENOMINATOR = 7; // penyebut nilai pi
 
     // konstruktor default yang mengatur radius ke 0
     public CircularShape() {
