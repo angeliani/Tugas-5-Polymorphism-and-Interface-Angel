@@ -33,8 +33,8 @@ public class ShapeCalculator {
         System.out.println("Shape Calculator");
         System.out.println("Angeliani Junitaviana Herman");
         System.out.println("245150700111021");
-        System.out.println("======================================\u001B[0m"); //kak apakah penempatan pewarnanya sudah betul maaf kalau masi salah
-
+        System.out.println("======================================\u001B[0m");
+      
         // input dan output untuk lingkaran
         System.out.println("2D Circle");
         System.out.println("======================================");
